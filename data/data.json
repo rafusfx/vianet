@@ -1,0 +1,80 @@
+{
+  "itemsVenda": [
+    {
+      "id": "23",
+      "titulo":"Castelo Casa Geminada",
+      "imgUrl": "./img/mainPic.jpg",
+      "tamanhoAp":"250 m²",
+      "banhos":"2",
+      "quartos":"2",
+      "vagas":"2",
+      "preco":"R$ 10.000.000,00"
+    },{
+      "id": "24",
+      "titulo":"Castelo Casa Geminada",
+      "imgUrl": "./img/mainPic.jpg",
+      "tamanhoAp":"250 m²",
+      "banhos":"2",
+      "quartos":"2",
+      "vagas":"2",
+      "preco":"R$ 10.000.000,00"
+    },{
+      "id": "25",
+      "titulo":"Castelo Casa Geminada",
+      "imgUrl": "./img/mainPic.jpg",
+      "tamanhoAp":"250 m²",
+      "banhos":"2",
+      "quartos":"2",
+      "vagas":"2",
+      "preco":"R$ 10.000.000,00"
+    },{
+      "id": "26",
+      "titulo":"Castelo Casa Geminada",
+      "imgUrl": "./img/mainPic.jpg",
+      "tamanhoAp":"250 m²",
+      "banhos":"2",
+      "quartos":"2",
+      "vagas":"2",
+      "preco":"R$ 10.000.000,00"
+    }
+  ],
+  "itemsAluguel": [
+    {
+      "id": "23",
+      "titulo":"Castelo Casa Geminada",
+      "imgUrl": "./img/mainPic.jpg",
+      "tamanhoAp":"250 m²",
+      "banhos":"2",
+      "quartos":"2",
+      "vagas":"2",
+      "preco":"R$ 2.000,00"
+    },{
+      "id": "24",
+      "titulo":"Castelo Casa Geminada",
+      "imgUrl": "./img/mainPic.jpg",
+      "tamanhoAp":"250 m²",
+      "banhos":"2",
+      "quartos":"2",
+      "vagas":"2",
+      "preco":"R$ 2.000,00"
+    },{
+      "id": "25",
+      "titulo":"Castelo Casa Geminada",
+      "imgUrl": "./img/mainPic.jpg",
+      "tamanhoAp":"250 m²",
+      "banhos":"2",
+      "quartos":"2",
+      "vagas":"2",
+      "preco":"R$ 2.000,00"
+    },{
+      "id": "26",
+      "titulo":"Castelo Casa Geminada",
+      "imgUrl": "./img/mainPic.jpg",
+      "tamanhoAp":"250 m²",
+      "banhos":"2",
+      "quartos":"2",
+      "vagas":"2",
+      "preco":"R$ 2.000,00"
+    }
+  ]
+}
